@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b405925-aa89-4da1-8b4e-e0be727635a3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/11_python_object_oriented_programming/11_python_object_oriented_programming.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/12_ModuleAndProject.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/fah_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/image/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/image/character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/image/object_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/bgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/echo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/module_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_pythonic_codes/pythonic_codes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_pythonic_codes/10_pythonic_codes.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -33,15 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hansanghyeon/Documents/3. myStudy/AI-Basic/12_ModuleAndProject/game/stage",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game/stage" />
+      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game/sound" />
+      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game/image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="RECENT_FILTERS">
