@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b405925-aa89-4da1-8b4e-e0be727635a3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/12_ModuleAndProject.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/fah_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/image/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/image/character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/image/object_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/bgm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/echo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_ModuleAndProject/module_ex.py" afterDir="false" />
+    <list default="true" id="58e19686-daa5-4c7f-bdbb-9759131b6cce" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/13_File_Exception_LogHandling/13_file_exception_handling_logging.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_File_Exception_LogHandling/example.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_File_Exception_LogHandling/logging.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/07. AI 기초 다지기.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07. AI 기초 다지기.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,18 +20,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
-        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2VQcErcj6ucGw9gA7T3RYKFT1Yh" />
+  <component name="ProjectId" id="2Vus17L8nenr4sSzs8oErFLpSvX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,46 +42,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/hansanghyeon/Documents/3. myStudy/AI-Basic/12_ModuleAndProject/game/stage",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/BoostCurse/06. AI 기초 다지기",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game/stage" />
-      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game/sound" />
-      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game/image" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/12_ModuleAndProject/game" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="main" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
   </component>
 </project>
