@@ -5,50 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e19686-daa5-4c7f-bdbb-9759131b6cce" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/14_data_handling/14_data_handling.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_data_handling/json_example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/1_numpy_ndarray.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/2_numpy_reshape.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/3_index_slicing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/4_numpy_creation_functions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/5_ndarray_operation_functions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/6_array_operations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/7_numpy_comparision.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/8_boolean_fancy_index.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_FirstStep_ElementaryMathmatics/9_numpy_data_io.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_pythonic_codes/10_pythonic_codes.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_pythonic_codes/10_pythonic_codes.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_python_object_oriented_programming/11_python_object_oriented_programming.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_python_object_oriented_programming/11_python_object_oriented_programming.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/12_ModuleAndProject.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/12_module_and_project.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/fah_converter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/image/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/image/character.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/image/object_type.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/bgm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/sound/echo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/game/stage/sub.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_ModuleAndProject/module_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/13_file_exception_handling_logging.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/13_file_exception_handling_logging.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/abc/SAngsaNG.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/count_log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/example.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/i_have_a_dream.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/list.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/logging.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_File_Exception_LogHandling/multiply_object.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_python_overview/2_python_overview.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_python_coding_env/3_python_coding_environment.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_jupyter_notebook/4_jupyter_notebook.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_variables/5_variables.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_function_and_io/6_function_and_io.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_condition_and_loops/7_conditionals_and_loops.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_str_and_advanced_function/01Yesterday.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_str_and_advanced_function/01Yesterday_yesterday.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_str_and_advanced_function/02swap.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_str_and_advanced_function/8_str_and_advanced_function.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_python_datastructure/9_python_datastructure.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_python_datastructure/9_python_datastructure.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_python_datastructure/command_data.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,23 +38,30 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2Vus17L8nenr4sSzs8oErFLpSvX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/BoostCurse/06. AI 기초 다지기",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BoostCurse/06. AI 기초 다지기&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
